@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Guillermo\\Desktop\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03541178-7CAC-4364-BF17-2B07BF7B31F7}|WebApplication1\\WebApplication1.csproj|c:\\users\\guillermo\\desktop\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03541178-7CAC-4364-BF17-2B07BF7B31F7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03541178-7CAC-4364-BF17-2B07BF7B31F7}|WebApplication1\\WebApplication1.csproj|c:\\users\\guillermo\\desktop\\webapplication1\\webapplication1\\models\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03541178-7CAC-4364-BF17-2B07BF7B31F7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03541178-7CAC-4364-BF17-2B07BF7B31F7}|WebApplication1\\WebApplication1.csproj|c:\\users\\guillermo\\desktop\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03541178-7CAC-4364-BF17-2B07BF7B31F7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03541178-7CAC-4364-BF17-2B07BF7B31F7}|WebApplication1\\WebApplication1.csproj|c:\\users\\guillermo\\desktop\\webapplication1\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03541178-7CAC-4364-BF17-2B07BF7B31F7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03541178-7CAC-4364-BF17-2B07BF7B31F7}|WebApplication1\\WebApplication1.csproj|c:\\users\\guillermo\\desktop\\webapplication1\\webapplication1\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03541178-7CAC-4364-BF17-2B07BF7B31F7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03541178-7CAC-4364-BF17-2B07BF7B31F7}|WebApplication1\\WebApplication1.csproj|c:\\users\\guillermo\\desktop\\webapplication1\\webapplication1\\models\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03541178-7CAC-4364-BF17-2B07BF7B31F7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Guillermo\\Desktop\\WebApplication1\\WebApplication1\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Guillermo\\Desktop\\WebApplication1\\WebApplication1\\Models\\Usuarios.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Usuarios.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:45:14.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tareas.cs",
+              "DocumentMoniker": "C:\\Users\\Guillermo\\Desktop\\WebApplication1\\WebApplication1\\Models\\Tareas.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Tareas.cs",
+              "ToolTip": "C:\\Users\\Guillermo\\Desktop\\WebApplication1\\WebApplication1\\Models\\Tareas.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Tareas.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:45:02.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comentario.cs",
+              "DocumentMoniker": "C:\\Users\\Guillermo\\Desktop\\WebApplication1\\WebApplication1\\Models\\Comentario.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Comentario.cs",
+              "ToolTip": "C:\\Users\\Guillermo\\Desktop\\WebApplication1\\WebApplication1\\Models\\Comentario.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Comentario.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:44:48.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guillermo\\Desktop\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Guillermo\\Desktop\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwBwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:29:28.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Guillermo\\Desktop\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Guillermo\\Desktop\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-29T06:42:31.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Guillermo\\Desktop\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Guillermo\\Desktop\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:23:28.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
